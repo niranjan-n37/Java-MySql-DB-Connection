@@ -111,7 +111,7 @@ public static Connection connect() {
 	}
 
 	public static void main(String[] args) throws SQLException{
-		
+		sqldynamic.insert();
 		sqldynamic.update();
 }
 }
